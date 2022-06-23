@@ -36,12 +36,9 @@ This dataset contains 8000 images each with 5 captions (as we have already seen 
 
 **References**
 1) https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
-2) https://arxiv.org/abs/1411.4555
-3) https://arxiv.org/abs/1703.09137
-4) https://arxiv.org/abs/1708.02043
-5) https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
-6) https://www.youtube.com/watch?v=yk6XDFm3J2c
-7) https://www.appliedaicourse.com/
+2) https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+3) https://www.youtube.com/watch?v=yk6XDFm3J2c
+4) https://www.appliedaicourse.com/
 
 
 **PS: Feel free to provide comments/criticisms if you think they can improve this blog, I will definitely try to make the required changes.**
